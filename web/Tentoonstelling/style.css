@@ -1,0 +1,9 @@
+body{
+    background-color: darksalmon;
+}
+
+#container{
+    background-color: darkturquoise;
+    width: 500px;
+    margin-top: auto;
+}
