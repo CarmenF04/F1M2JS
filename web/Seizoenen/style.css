@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#container{
+    background-color: #d3ecd3;
+    width: 700px;
+    height: 500px;
+    margin: 100px auto auto auto;
+    border-radius: 5px;
+    max-width: max-content;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+border: none;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 5px;
+}
