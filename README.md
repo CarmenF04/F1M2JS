@@ -2,10 +2,9 @@
 
 ## Javascript
 
-[PORT FOLIO](http://33059.hosts1.ma-cloud.nl/f1m2js/Portfolio/)
+_zie hier mijn portfolio ->_ [PORT FOLIO](http://33059.hosts1.ma-cloud.nl/f1m2js/Portfolio/)
 
--
-Opdrachten
+_linkjes naar alle opdrachten ->_
 [Boodschappen](http://33059.hosts1.ma-cloud.nl/f1m2js/Boodschappen/index.html)
 [Tentoonstelling](http://33059.hosts1.ma-cloud.nl/f1m2js/Tentoonstelling/index.html)
 [Seizoenen](http://33059.hosts1.ma-cloud.nl/f1m2js/Seizoenen/index.html)
